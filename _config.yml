@@ -1,0 +1,29 @@
+# やめドラ ドキュメントサイト Jekyll 設定
+title: やめドラ Documents
+description: ギャンブル断ち育成アプリ「やめドラ」の利用規約とプライバシーポリシー
+theme: jekyll-theme-cayman
+
+# 表記
+author: Melt-dev
+lang: ja
+timezone: Asia/Tokyo
+
+# Jekyll ビルド設定
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# プライベート情報の除外
+exclude:
+  - README.md
+  - .gitignore
+
+# ナビゲーション（テーマでは表示されないが、メタとして残す）
+nav:
+  - title: ホーム
+    url: /
+  - title: プライバシーポリシー
+    url: /privacy-policy/
+  - title: 利用規約
+    url: /terms-of-service/
