@@ -1,6 +1,7 @@
----                                                                                                                      
-  title: プライバシーポリシー — やめドラ                                                                                   
-  permalink: /privacy-policy/                                                                                                ---                                                                                                                      
+---
+title: プライバシーポリシー — やめドラ                                                                                   
+permalink: /privacy-policy/
+---
                                                                                                                            
   # プライバシーポリシー
 
